@@ -1,0 +1,2 @@
+Commands:
+ * Open HTML preview: ctrl + shift + v
